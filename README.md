@@ -1,7 +1,10 @@
 
 Hai hướng chính thử nghiệm:
+
 1. Sử dụng dữ liệu lịch sử giao dịch từ Kaggle rồi gán nhãn “churn”
+
 1.1 Dùng dữ liệu 2 tháng (tháng 10 và 11)
+
 1.1.1 Gán nhãn churn và chia theo các tiêu chí:
 
 1.1.1.1 Chia theo số lượng user:
